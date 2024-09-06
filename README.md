@@ -4,6 +4,7 @@ Project Title:
        Election Result 2024 Data Analysis with Python
 
 Description:
+
        >> This project focuses on analyzing election data from the 2024 elections using Python. Through this project, you'll gather, clean, and visualize election data to 
        extract insights into voting patterns, voter turnout, and trends. You'll leverage Python libraries like Pandas for data manipulation, Matplotlib and Seaborn for 
        visualization, and Scikit-learn for any predictive modeling based on historical and current election data.
